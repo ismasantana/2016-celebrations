@@ -40,7 +40,7 @@ Equipe vencedora:
 ## PROCESSO
 
 1. Monte sua **equipe** e faça a inscrição até a data limite
-  - Formulário de inscrição das equipes: [http://goo.gl/TChYFc](http://goo.gl/TChYFc) 
+  - Formulário de inscrição das equipes: [https://goo.gl/NHpOgA](https://goo.gl/NHpOgA) 
 1. **Desenvolva** seu jogo ou aplicação 
 1. **Poste** seu jogo ou aplicação no Facebook, **até o dia 09/10/2016 (domingo), publicamente**, com a _hashtag_ 
   _**`#DECOMCEFETMGCelebrations2016`**_, e incentive seus contatos a: curtir e compartilhar sua publicação 
